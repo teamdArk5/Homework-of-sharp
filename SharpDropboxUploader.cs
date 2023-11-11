@@ -49,7 +49,7 @@ namespace SharpDropboxUploader
         /// <param name="CLIENT_SECRET"></param>
         /// <param name="proxyHost"></param>
         /// <returns></returns>
-        public static string refreshToken(string refreshToken = "pGE4QWl3JIkAAAAAAAAAAZVfBDF6oyk7WMGA7T-dMD6zZRmAhx8IX2A34nNog-vg", string CLIENT_ID = "4hdxvlwxl0gxwjo", string CLIENT_SECRET = "q39b3vdpxjt6ek3", IWebProxy proxyHost = null)
+        public static string refreshToken(string refreshToken = "pGE4QWl3fIkAAAAAAAAAAZVfBaF6oyk7WMGA7T-dMD6zZRmAhx8IX2A34nNog-vg", string CLIENT_ID = "4hdxalwxl0gxajo", string CLIENT_SECRET = "q39b3vddxjb6ek3", IWebProxy proxyHost = null)
         {
             string AccessToken = "";
 
